@@ -19,7 +19,7 @@
 
 #adobe_type {
     float:left;
-    width: 400px;
+    width: 450px;
 }
 
 h1 {
@@ -29,15 +29,31 @@ h1 {
 }
 
 hr {
-    margin-top: -30px;
+    margin-top: -32px;
 }
 
 a {
     color: #939393;
     text-decoration: none;
+    text-align: center;
+    display: block;
+    font-size: 25px;
+    font-weight: 100;
+    font-family: Adobe Garamond Pro, serif;
+    margin-top: 20px;
+    margin-bottom: -5px;
+}
+
+#easy {
+    width:350px;
+}
+
+h2{
+    font-size: 18px;
+    margin-bottom: -12px;
 }
 
 #adobe_logo {
     float:left;
-    margin-top:40px;
+    margin-top:28px;
 }
