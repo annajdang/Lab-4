@@ -1,7 +1,9 @@
 #if {
     background-color: black;
-    width: 400px;
+    width: 413px;
+    height: 520px;
     float:left;
+    padding: 0 auto;
 }
 
 #first {
@@ -11,15 +13,31 @@
     font-family: Adobe Garamond Pro, serif;
     line-height: 8px;
     padding-top: 261px;
-    padding-bottom: 200px;
+    padding-bottom: 195px;
+    padding-right: 25px;
 }
 
 #adobe_type {
-    clear:both;
+    float:left;
+    width: 400px;
 }
 
 h1 {
     color: #F46138;
     font-family: Adobe Garamond Pro, serif;
     font-weight: 300;
+}
+
+hr {
+    margin-top: -30px;
+}
+
+a {
+    color: #939393;
+    text-decoration: none;
+}
+
+#adobe_logo {
+    float:left;
+    margin-top:40px;
 }
