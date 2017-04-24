@@ -1,0 +1,25 @@
+#if {
+    background-color: black;
+    width: 400px;
+    float:left;
+}
+
+#first {
+    background-color:black;
+    color: white;
+    float:left;
+    font-family: Adobe Garamond Pro, serif;
+    line-height: 8px;
+    padding-top: 261px;
+    padding-bottom: 200px;
+}
+
+#adobe_type {
+    clear:both;
+}
+
+h1 {
+    color: #F46138;
+    font-family: Adobe Garamond Pro, serif;
+    font-weight: 300;
+}
